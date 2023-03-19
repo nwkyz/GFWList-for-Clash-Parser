@@ -1,6 +1,8 @@
 # GFWList for Clash Parser
 Use GFWList in Clash rules, automatically override default rules of your profile with the Parser.
 
+*Latest update on: BJT-2022/03/19-15:36:05 (GMT-2022/03/19-07:36:05)*
+
 ---
 ## 0.What's this?
 The repo is in order to provide a GFWList parser file for your Clash
